@@ -1,0 +1,30 @@
+{
+  "name": "npm-install-extra-packages",
+  "version": "0.0.0",
+  "description": "Install packages other then those declared in package.json",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tagplay/npm-install-extra-packages.git"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "packages",
+    "dependencies",
+    "hubot"
+  ],
+  "author": "Fannar Snær <fannar@lambagras.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tagplay/npm-install-extra-packages/issues"
+  },
+  "homepage": "https://github.com/Tagplay/npm-install-extra-packages",
+  "dependencies": {
+    "npm": "^2.1.10"
+  }
+}
