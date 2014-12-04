@@ -1,6 +1,6 @@
 {
   "name": "npm-install-extra-packages",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Install packages other then those declared in package.json",
   "main": "index.js",
   "bin": "cli.js",
